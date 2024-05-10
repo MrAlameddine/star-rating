@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MrAlameddine/star-rating.git/static/css/main.f4f22270.css",
+    "main.js": "/MrAlameddine/star-rating.git/static/js/main.611c49a7.js",
+    "static/js/453.6d2fc86a.chunk.js": "/MrAlameddine/star-rating.git/static/js/453.6d2fc86a.chunk.js",
+    "index.html": "/MrAlameddine/star-rating.git/index.html",
+    "main.f4f22270.css.map": "/MrAlameddine/star-rating.git/static/css/main.f4f22270.css.map",
+    "main.611c49a7.js.map": "/MrAlameddine/star-rating.git/static/js/main.611c49a7.js.map",
+    "453.6d2fc86a.chunk.js.map": "/MrAlameddine/star-rating.git/static/js/453.6d2fc86a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f22270.css",
+    "static/js/main.611c49a7.js"
+  ]
+}
